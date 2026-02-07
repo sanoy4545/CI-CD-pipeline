@@ -83,3 +83,5 @@ tmp/
 temp/
 *.tmp
 .venv/
+
+/flask-hello-world/
